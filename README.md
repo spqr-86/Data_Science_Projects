@@ -1,5 +1,4 @@
-# Data_Science_Projects
-Data_Science_Projects
+# My data science projects
 
 | №        |  Project | Description| Skills and Tools|
 |----------|----------|------------|-----------------|
