@@ -1,4 +1,4 @@
-# Airbnb Dataset Exploratory Data Analysis (EDA) README
+# Airbnb Dataset Exploratory Data Analysis (EDA)
 
 ## Objective
 The primary objective of this exploratory data analysis (EDA) project is to gain comprehensive insights into the Airbnb dataset. This dataset contains a variety of features related to Airbnb listings, such as room types, host status, guest satisfaction, and geographical data. The analysis aims to understand patterns, relationships, and trends among these features, which could aid in making informed decisions for both hosts and guests.
