@@ -1,15 +1,13 @@
-<h1 align="center">BBBS</h1>
+# Airbnb Dataset Exploratory Data Analysis (EDA) - Project Readme
 
-### Описание
-Сайт предназначен для помощи наставникам в работе с детьми.
+## Objective
+To analyze the Airbnb dataset to uncover patterns and trends impacting guest experiences and listings, aiding hosts and stakeholders in decision-making.
 
-### Технологии
-- Python 3.9
-- Django 3.2.3
-- Django Rest Framework 3.12.4
-- gunicorn 20.0.4
-- Docker
-- docker-compose
-- Nginx
-- Postgres
+## Methods and Tools
+- **Data**: Features like room type, capacity, host status, ratings, location metrics.
+- **Techniques**: Descriptive statistics, correlation analysis, geospatial analysis, trend analysis.
+- **Tools**: Python, Pandas, Matplotlib/Seaborn, Jupyter Notebooks.
+
+## Conclusion
+This EDA project will provide insights into Airbnb's listing dynamics and guest satisfaction, demonstrating data analysis and visualization skills for potential employers.
 
