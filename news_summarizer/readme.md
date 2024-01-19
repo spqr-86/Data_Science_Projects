@@ -1,6 +1,6 @@
 # News Summarize
 
-[![Project URL](https://github.com/spqr-86/Data_Science_Projects/tree/main/news_summarizer)](https://github.com/spqr-86/Data_Science_Projects/tree/main/news_summarizer)
+[![Project URL](https://colab.research.google.com/drive/1nKc76t5Sb9b8Ez1BKQ7_D1-W-PsVMauX?usp=drive_link)
 
 ## Project Description
 *News Summarize* implements a T5 deep learning model to generate concise summaries of news articles. This project demonstrates advanced natural language processing techniques to distill essential information from various news sources.
