@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-[![Project URL](https://github.com/spqr-86/Data_Science_Projects/tree/main/movie_recommendation_system)](https://github.com/spqr-86/Data_Science_Projects/tree/main/movie_recommendation_system)
+[Google colab](https://colab.research.google.com/drive/11bfxosrGq5sb30Tt6p0b4NdMFZsYpm9P?usp=drive_link)
 
 ## Project Description
 The *Movie Recommendation System* is a collaborative filtering platform that suggests movies based on user preferences and behaviors. This project showcases the implementation of machine learning algorithms for personalized content recommendation.
